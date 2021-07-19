@@ -13,10 +13,12 @@ The dataset is available on [GitHub](https://github.com/applicaai/kleister-chari
 Here are each cluster I obtained and words with highest mean tfidf-score within:
  * School/College:
  
-  'august', 'school', 'scheme', 'statements', 'assets', 'accounts', 'funds', 'costs', 'governors', 'pupils', 'college', 'schools'
+   'august', 'school', 'scheme', 'statements', 'assets', 'accounts', 'funds', 'costs', 'governors', 'pupils', 'college', 'schools'
+   
  * Church
  
-  'december', 'church', 'activities', 'statements', 'assets', 'accounts', 'nas', 'funds', 'members', 'costs', 'pcc', 'matters', 'baptist', 'nat'
+   'december', 'church', 'activities', 'statements', 'assets', 'accounts', 'nas', 'funds', 'members', 'costs', 'pcc', 'matters', 'baptist', 'nat'
+  
  * Club
  * Art/Festival
  * Camp/scout
