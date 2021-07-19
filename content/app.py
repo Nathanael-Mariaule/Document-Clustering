@@ -26,7 +26,7 @@ clusters_name = {
                     7 : 'Pension',
                     8 : 'River',
                     9 : 'Park/Museum',
-                    10 : 'School/August',
+                    10 : 'School/Optional',
                     11 : 'Examination',
                     12 : 'Liabililities/Policies',
                     13 : 'Other'
