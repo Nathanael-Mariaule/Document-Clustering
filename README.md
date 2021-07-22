@@ -36,34 +36,34 @@ determine the actual usefull clusters, it was difficult to make the choices in o
 
 ## Clusters Description
 Here are each cluster I obtained and words with highest mean tfidf-score within:
- * School/College:
+ * School/College: 
    'august', 'school', 'scheme', 'statements', 'assets', 'accounts', 'funds', 'costs', 'governors', 'pupils', 'college', 'schools'
- * Church
+ * Church: 
    'december', 'church', 'activities', 'statements', 'assets', 'accounts', 'nas', 'funds', 'members', 'costs', 'pcc', 'matters', 'baptist', 'nat'
- * Club
+ * Club: 
    'club', 'statements', 'assets', 'accounts', 'funds', 'members', 'costs', 'matters', 'rotary', 'ended', 'received', 'gymnastics', 'sailing', 'brought', 'records'
- * Art/Festival
+ * Art/Festival: 
     'theatre', 'arts', 'festival', 'statements', 'assets', 'accounts', 'limited', 'funds', 'costs', 'matters', 'including', 'ended', 'received', 'recognised', 'records'
- * Camp/scout
+ * Camp/scout: 
     'receipts', 'payments', 'county', 'leader', 'district', 'camp', 'leaders', 'procedures', 'expenses', 'matters', 'scout', 'scouts', 'ended', 'scouting', 'beavers', 'cubs'
 
- * University/research
+ * University/research: 
     'university', 'research', 'continued', 'appointed', 'children', 'gains', 'members', 'students', 'matters', 'nhs', 'hospice', 'amounts', 'including', 'cancer', 'hospital'
- * International
+ * International: 
     'projects', 'international', 'statements', 'assets', 'accounts', 'media', 'limited', 'africa', 'programmes', 'relief', 'funds', 'costs', 'women', 'including', 'received', 'ended', 'islamic'
  * Pension
     'housing', 'homes', 'services', 'care', 'scheme', 'pension', 'statements', 'assets', 'continued', 'defined', 'limited', 'funds', 'costs', 'including', 'received', 'properties', 'recognised', 'years'
- * River
+ * River: 
    'policies', 'thames', 'river', 'investments', 'matters', 'directors', 'continued', 'prepared', 'amounts', 'leeds', 'received', 'losses', 'recognised', 'gains', 'ending'
- * Park/Museum
+ * Park/Museum: 
     'park', 'museum', 'policies', 'members', 'investments', 'expenses', 'matters', 'continued', 'prepared', 'expended', 'pages', 'valley', 'received', 'recognised', 'appointed', 'ended'
- * School/Optional
+ * School/Optional: 
     'august', 'optional', 'school', 'funds', 'children', 'members', 'accounts', 'families', 'matters', 'playgroup', 'pre', 'events', 'needs', 'parents', 'received', 'pue', 'years'
- * Examination
+ * Examination: 
     'examiner', 'examination', 'payments', 'community', 'funds', 'members', 'costs', 'accounts', 'assets', 'policies', 'expenses', 'resources', 'matters', 'statements', 'volunteers'
- * Liabililities/Policies
+ * Liabililities/Policies: 
     'accounts', 'assets', 'liabilities', 'policies', 'members', 'funds', 'costs', 'december', 'resources', 'limited', 'continued', 'directors', 'prepared', 'statements', 'expended', 'amounts', 'losses'
- * Other (anything that don't fall into the previous clusters)
+ * Other:  anything that don't fall into the previous clusters
  
  
  
