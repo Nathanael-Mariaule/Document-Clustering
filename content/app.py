@@ -55,11 +55,10 @@ if pressed:
     if not uploaded_file:
         right_column.write('Please, upload a file')
     else:
-        right_column.write(str(type((uploaded_file.getvalue()))))
-        #text = pdf_to_text(uploaded_file.getvalue())
-        #label = predict(text, clusters_label, vectorizers, kmeans)
-        #label_category = clusters_name[label]
-        #right_column.write(f'{label} : {label_category}')
+        text = pdf_to_text(uploaded_file.getvalue())
+        label = predict(text, clusters_label, vectorizers, kmeans)
+        label_category = clusters_name[label]
+        right_column.write(f'{label} : {label_category}')
 
 '''
     More details and the python codes are available [on my GitHub](https://github.com/Nathanael-Mariaule/Document-Clustering)
