@@ -47,12 +47,11 @@ Here are each cluster I obtained and words with highest mean tfidf-score within:
     'theatre', 'arts', 'festival', 'statements', 'assets', 'accounts', 'limited', 'funds', 'costs', 'matters', 'including', 'ended', 'received', 'recognised', 'records'
  * Camp/scout: 
     'receipts', 'payments', 'county', 'leader', 'district', 'camp', 'leaders', 'procedures', 'expenses', 'matters', 'scout', 'scouts', 'ended', 'scouting', 'beavers', 'cubs'
-
  * University/research: 
     'university', 'research', 'continued', 'appointed', 'children', 'gains', 'members', 'students', 'matters', 'nhs', 'hospice', 'amounts', 'including', 'cancer', 'hospital'
  * International: 
     'projects', 'international', 'statements', 'assets', 'accounts', 'media', 'limited', 'africa', 'programmes', 'relief', 'funds', 'costs', 'women', 'including', 'received', 'ended', 'islamic'
- * Pension
+ * Pension:
     'housing', 'homes', 'services', 'care', 'scheme', 'pension', 'statements', 'assets', 'continued', 'defined', 'limited', 'funds', 'costs', 'including', 'received', 'properties', 'recognised', 'years'
  * River: 
    'policies', 'thames', 'river', 'investments', 'matters', 'directors', 'continued', 'prepared', 'amounts', 'leeds', 'received', 'losses', 'recognised', 'gains', 'ending'
@@ -73,4 +72,4 @@ Here are each cluster I obtained and words with highest mean tfidf-score within:
 ## Further improvements
  - Try to use cosine-similarity to classify document according to meaning and not only topics
  - Some clusters are much larger than the other or their content is less clear. One could use further clustering to get better clusters
- - This latter point is limited due to the context: in real situation, cluster should be defined according to the company need. As this project was mostly for exercise pur
+ - This latter point is limited due to the context: in real situation, cluster should be defined according to the company need. This was not duable in the context of the project.
