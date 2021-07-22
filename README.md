@@ -24,6 +24,7 @@ words with highest mean tfidf-score within each cluster):
    'august', 'school', 'scheme', 'statements', 'assets', 'accounts', 'funds', 'costs', 'governors', 'pupils', 'college', 'schools'
  * Cluster 4 (size ~8%):
    'december', 'church', 'activities', 'statements', 'assets', 'accounts', 'nas', 'funds', 'members', 'costs', 'pcc', 'matters', 'baptist', 'nat'
+   
 There are two issues with this clustering: first, cluster sizes are inequal (size of cluster 2 is way more larger than the other). Second, not all clusters have meaning : here, Cluster 3 and 4
 have 'clear' thematic while Cluster 1 and 2 haven't.
 
